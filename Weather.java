@@ -24,9 +24,6 @@ public class Weather {
             System.out.println("Ahí no hay quien viva");
         }
         scanner.close();
-
-
-
         //Escribe un programa que pida al usuario que ingrese la temperatura en celcius de su ciudad (La pregunta y la respuesta deberá estar en una sola línea) y según ello devuelva lo siguiente:
         //Si es bajo 0: Te estás congelando
         //Si es entre 0 y 10: Hace mucho frío 
