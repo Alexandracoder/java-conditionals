@@ -16,7 +16,7 @@ public class Quiz {
         System.out.println("\t  d. Jane Jacobs");
         String answer1 = scanner.nextLine();
         int score = 0;
-        if (answer1.equalsIgnoreCase("b")) {
+        if (answer1.equalsIgnoreCase("b")) {A
         score +=5;
         }
         System.out.println("Genial!! siguiente pregunta.\n");
